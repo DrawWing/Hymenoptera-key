@@ -1,0 +1,11 @@
+---
+title: "Hymenoptera of Europe: taxonomic key"
+subtitle: "<https://github.com/DrawWing/Hymenoptera>"
+date-modified: last-modified
+date-format: iso
+format: 
+  html:
+    self-contained: true
+    toc: true
+    css: styles.css
+---

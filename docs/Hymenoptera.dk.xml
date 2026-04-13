@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DKey version="3.0.0">
+<introduction>This key is based on the work of Gauld and Bolton (1988).   
+Gauld, I., Bolton, B. (1988). The Hymenoptera. British Museum (Natural History), London.   
+The key was prepared using DKey software (Tofilski 2018).  
+Tofilski A., 2018. DKey software for editing and browsing dichotomous keys. ZooKeys 735: 131-140. [&lt;u&gt;https://doi.org/10.3897/zookeys.735.21412&lt;/u&gt;](https://doi.org/10.3897/zookeys.735.21412)</introduction>
+<key>
+<couplet number="1">
+<lead>
+<text>Body without a marked constriction between the 1st and 2nd abdominal segments (Fig. 58, 64).  
+Wings: fully developed, fore wing: with an enclosed anal cell (Fig. 16, 59, 61).  
+[Symphyta]</text>
+<pointer>2</pointer>
+</lead>
+<lead>
+<text>Body with a constriction between the 1st and 2nd abdominal segments (Fig. 121), if the constrictipn is secondarily obscured (Fig. 96) than fore wing without enclosed cells.  
+Wings: fully developed, vestigal or absent, fore wing: if present then without an enclosed anal cell (Fig. 17, 76, 115).  
+[Apocrita]</text>
+<pointer>7</pointer>
+</lead>
+</couplet>
+<couplet number="2">
+<lead>
+<text>Antenna: inserted on ventral side of head, close to mandibles (Fig. 40).  
+Anal cell of fore wing: indistinctly delineated.</text>
+<endpoint>Orussoidea</endpoint>
+</lead>
+<lead>
+<text>Antenna: inserted on anterior side of head, away from mandibles.  
+Anal cell of fore wing: distinct.</text>
+<pointer>3</pointer>
+</lead>
+</couplet>
+<couplet number="3">
+<lead>
+<text>Vein RS of fore wing: branched (Fig. 57).  
+Antenna: with third segment long and stout, followed by a filament of 9 or more slender segments (Fig. 41).</text>
+<endpoint>Xyeloidea</endpoint>
+</lead>
+<lead>
+<text>Vein RS of fore wing: unbranched.  
+Antenna: different.</text>
+<pointer>4</pointer>
+</lead>
+</couplet>
+<couplet number="4">
+<lead>
+<text>Fore tibia: with one apical spur, if the second spur is present it is much shorter or vestigal.</text>
+<pointer>5</pointer>
+</lead>
+<lead>
+<text>Fore tibia: with two well-developed apical spurs, both apical spurs are of similar size.</text>
+<pointer>6</pointer>
+</lead>
+</couplet>
+<couplet number="5">
+<lead>
+<text>Cenchri: absent (Fig. 42).  
+Abdomen: terminally laterally compressed, anteriorly slightly constricted between first and second segments (Fig. 74).</text>
+<endpoint>Cephoidea</endpoint>
+</lead>
+<lead>
+<text>Cenchri: present (Fig. 43).  
+Abdomen: cylindrical or depressed, not constricted anteriorly (Fig. 72, 73).</text>
+<endpoint>Siricoidea</endpoint>
+</lead>
+</couplet>
+<couplet number="6">
+<lead>
+<text>Pronotum: in dorsal view with hind margin more or less straight (Fig. 44).  
+Vein 2r-rs of fore wing: present.  
+Labrum: concealed (Fig. 46).  
+Mid tibiae and hind tibiae: with preapical spurs.  
+Antenna with 18 or more segments (Fig. 58).</text>
+<endpoint>Megalodontoidea</endpoint>
+</lead>
+<lead>
+<text>Pronotum: in dorsal view with hind margin strongly bowed (Fig. 45, or if weakly bowed then fore wing with 2r-rs absent.  
+Vein 2r-rs of fore wing: present or absent.  
+Labrum: exposed (Fig. 47).  
+Mid tibiae and hind tibiae: without preapical spurs, if preapical spurs present, then antenna with fewer than 10 segments.  
+Antenna: with 3-32 segments, often with 9 or less.</text>
+<endpoint>Tenthredinoidea</endpoint>
+</lead>
+</couplet>
+<couplet number="7">
+<lead>
+<text>Segment 1 of gaster forming a node or scale, or first two segments nodiform, so segment 2 is deeply separated (both dorsally and ventrally) from segments 1 and 3 (Fig. 143).</text>
+<endpoint>Vespoidea (part)</endpoint>
+</lead>
+<lead>
+<text>Segment 1 of gaster not scale-like, if rarely slightly nodiform then with segment 2 closely adapted to segment 3.</text>
+<pointer>8</pointer>
+</lead>
+</couplet>
+<couplet number="8">
+<lead>
+<text>Segment 1 of gaster inserted high up on propodeum so gap between propodeal foramen and insertion of hind coxa is about equal to or greater than gap between foramen and hind margin of metanotum (Fig. 79-80).</text>
+<pointer>9</pointer>
+</lead>
+<lead>
+<text>Segment 1 of gaster inserted low down on propodeum so gap between propodeal foramen and insertion of hind coxa is very much less than gap between foramen and hind margin of metanotum.</text>
+<pointer>10</pointer>
+</lead>
+</couplet>
+<couplet number="9">
+<lead>
+<text>Antenna: with 14 or fewer segments.  
+Fore wing with costal cell distinct (Fig. 79, 80).</text>
+<endpoint>Evanioidea</endpoint>
+</lead>
+<lead>
+<text>Antenna: with 18 or more segments.  
+Fore wing with costal cell obliterated, veins C, Sc, R and Rs fused between wing base and pterostigma (Fig. 120)</text>
+<endpoint>Ichneumonoidea (part)</endpoint>
+</lead>
+</couplet>
+<couplet number="10">
+<lead>
+<text>Wings: fully developed.</text>
+<pointer>11</pointer>
+</lead>
+<lead>
+<text>Wings: vestigal or absent.</text>
+<pointer>25</pointer>
+</lead>
+</couplet>
+<couplet number="11">
+<lead>
+<text>Fore wing with one enclosed cell, or without any enclosed cells (Fig. 98-108; 111-113; 132)</text>
+<pointer>12</pointer>
+</lead>
+<lead>
+<text>Fore wing with two or more cells clearly delineated by veins (Fig. 14, 15, 81, 110, 119-122, 144).</text>
+<pointer>19</pointer>
+</lead>
+</couplet>
+<couplet number="12">
+<lead>
+<text>Fore wing with membrane reticulate; hind wing vestigial, with a bifid apex; segments 1 and 2 of gaster cylindrical, slender, forming a 2-segmented petiole (Fig. 48) (Body length less than 1 mm).</text>
+<endpoint>Chalcidoidea (part)</endpoint>
+</lead>
+<lead>
+<text>Fore wing membrane not reticulate; hind wing fully developed though often very narrow, but never with a bifid apex; gaster with at most first segment cylindrical and slender so petiole, if present, is 1-segmented.</text>
+<pointer>13</pointer>
+</lead>
+</couplet>
+<couplet number="13">
+<lead>
+<text>Hind wing with a distinct stalk (Fig. 49).</text>
+<endpoint>Chalcidoidea (part)</endpoint>
+</lead>
+<lead>
+<text>Hind wing not stalked.</text>
+<pointer>14</pointer>
+</lead>
+</couplet>
+<couplet number="14">
+<lead>
+<text>Alitrunk with pronotum not extending back to tegulae (Fig. 50); wings without enclosed cells.</text>
+<endpoint>Chalcidoidea (part)</endpoint>
+</lead>
+<lead>
+<text>Alitrunk with pronotum extending back to almost touch tegulae (Fig. 51); wings with or without closed cells.</text>
+<pointer>15</pointer>
+</lead>
+</couplet>
+<couplet number="15">
+<lead>
+<text>Antennae inserted in centre of face, their sockets separated from the clypeus by more than twice their own diameter.</text>
+<pointer>16</pointer>
+</lead>
+<lead>
+<text>Antennae inserted on face close to clypeus, their sockets separated from clypeus by about their own diameter or less.</text>
+<pointer>17</pointer>
+</lead>
+</couplet>
+<couplet number="16">
+<lead>
+<text>Antennae not inserted on a promontory or “shelf”, those of female without a very elongate scape;   
+fore wing venation characteristic (Fig. 84, 85, 86), with a fairly large radial cell, that is either open anteriorly, or the only enclosed cell in the wing;   
+costal cell broad, anteriorly open, posteriorly bordered by a vein from which arises a long stub of Rs+M.</text>
+<endpoint>Cynipoidea (part)</endpoint>
+</lead>
+<lead>
+<text>Antennae inserted on facial promontory or “shelf”, those of female geniculate, scape more than 3x as long as wide;   
+fore wing without venation, or with a single linear vein, without a discernible radial cell, or if one is indicated then it is not defined distally and costal cell is only enclosed cell;   
+if costal cell present, vein delineating costal cell posteriorly is without a stub of Rs+M (Fig. 111).</text>
+<endpoint>Proctotrupoidea (part)</endpoint>
+</lead>
+</couplet>
+<couplet number="17">
+<lead>
+<text>Head distinctly prognathous;   
+tergite 1 of gaster as long as following tergites, separated from sternite, posteriorly overlapping tergite 2 (Fig. 135)</text>
+<endpoint>Chrysidoidea (part)</endpoint>
+</lead>
+<lead>
+<text>Head hypognathous;   
+tergite 1 of gaster shorter than the following apparent tergite (which may be a syntergite), or the two fused and tergite 1 visible as a ridged anterior rim of the first apparent tergite; tergite 1 usually fused with sternite to form a ring at anterior end of gaster.</text>
+<pointer>18</pointer>
+</lead>
+</couplet>
+<couplet number="18">
+<lead>
+<text>Fore wing with vein along anterior margin, this vein distally with a curved stigmal branch, sometimes with a large pterostigma (Fig. 53, 113);   
+fore tibia with two spurs</text>
+<endpoint>Ceraphronoidea (part)</endpoint>
+</lead>
+<lead>
+<text>Fore wing without any venation, or with a short vein that does not reach to level of middle of wing, or if with a long vein, then this is proximally separated from anterior margin of wing, and its stigmal branch is almost straight; pterostigma not present (Fig. 112);   
+fore tibia with a single spur.</text>
+<endpoint>Proctotrupoidea (part)</endpoint>
+</lead>
+</couplet>
+<couplet number="19">
+<lead>
+<text>Tarsi with well-developed plantar lobes (Fig. 54);   
+antenna with 26-27 segments;   
+fore wing with 10 enclosed cells (Fig. 75).</text>
+<endpoint>Trigonalyoidea</endpoint>
+</lead>
+<lead>
+<text>Tarsi without plantar lobes, or if vestiges present then antenna with fewer than 14 segments;   
+antenna with various numbers of segments, if more than 14 then fore wing with 7 or fewer enclosed cells;   
+fore wing with 1-10 enclosed cells.</text>
+<pointer>20</pointer>
+</lead>
+</couplet>
+<couplet number="20">
+<lead>
+<text>Fore wing with costal cell obliterated, veins C, Sc, R and Rs fused or contiguous from wing base to pterostigma;   
+hind wing without a distinct jugal lobe (Fig. 119-122);   
+antenna usually with 16 or more segments (rarely with as few as 12), and with a small anellus more or less differentiated from proximal end of 1st flagellar segment</text>
+<endpoint>Ichneumonoidea (part)</endpoint>
+</lead>
+<lead>
+<text>Fore wing with costal cell usually visible, though sometimes not bordered anteriorly by a vein, rarely when costal cell is virtually obliterated then a distinct jugal lobe is present on the hind wing;   
+jugal lobe otherwise present or absent;   
+antenna with 10-15 segments, without a small anellus differentiated from proximal end of 1st flagellar segment (except in one taxon with a broad costal cell).</text>
+<pointer>21</pointer>
+</lead>
+</couplet>
+<couplet number="21">
+<lead>
+<text>Fore wing with costal cell open, not delineated by a vein along anterior margin of wing;   
+pterostigma absent;   
+gaster laterally compressed (Fig. 81).</text>
+<endpoint>Cynipoidea (part)</endpoint>
+</lead>
+<lead>
+<text>Fore wing with costal cell enclosed, bordered anteriorly by a vein, or if this vein is rarely absent then pterostigma is present, or costal cell is obliterated;   
+pterostigma otherwise present, or uncommonly, absent;   
+gaster cylindrical or depressed</text>
+<pointer>22</pointer>
+</lead>
+</couplet>
+<couplet number="22">
+<lead>
+<text>First tergite of gaster short, fused with sternite to form a ring-like, highly sclerotized segment; second tegite (or syntergite) longer than tergites 1 and 3+ combined (Fig. 52); spiracles not present at least on first and apparent second gastral tergites; fore wing usually with 2 enclosed cells (costal and radial)(Fig. 110), rarely with up to 3 more enclosed cells (thus making a maximum of 5)(Fig. 109)</text>
+<endpoint>Proctotrupoidea (part)</endpoint>
+</lead>
+<lead>
+<text>First tergite of gaster quite long, not fused with sternite to form short ring-like segment; second tergite not longer than tergites 1 and 3+ combined; first and second segments of gaster with distinct spiracles (though these may be positioned ventrally on laterotergite); fore wing usually with 6 or more enclosed cells, rarely with 2-5 and then always with basal and subbasal cells enclosed, costal cell usually enclosed, radial cell sometimes not enclosed.</text>
+<pointer>23</pointer>
+</lead>
+</couplet>
+<couplet number="23">
+<lead>
+<text>Fore wing with radial cell either not indicated or open distally, and without any complete submarginal (cubital) cells; hind wing without enclosed cells (Fig. 136-138).</text>
+<endpoint>Chrysidoidea (in part)</endpoint>
+</lead>
+<lead>
+<text>Fore wing with an enclosed radial cell, and with at least one enclosed cubital cell; hind wing generally with two or three enclosed cells.</text>
+<pointer>24</pointer>
+</lead>
+</couplet>
+<couplet number="24">
+<lead>
+<text>Pronotum with upper hind corner widely separated from tegulae, and lower down the side with a pronounced prontal lobe covering mesothoracic spiracle (Fig. 55).</text>
+<endpoint>Apoidea</endpoint>
+</lead>
+<lead>
+<text>Pronotum with upper hind corner reaching to or close to tegula, with or without a pronounced prontal lobe (Fig. 56).</text>
+<endpoint>Vespoidea (part)</endpoint>
+</lead>
+</couplet>
+<couplet number="25">
+<lead>
+<text>Antennae with 16 or more segments, more or less filiform, unspecialized; sternites of gaster weakly sclerotized, tending to dry with median longitudinal fold</text>
+<endpoint>Ichneumonoidea (part)</endpoint>
+</lead>
+<lead>
+<text>Antenna with 15 or fewer segments, sometimes filiform and unspecialized, often geniculate with elongate scape and clavate distal segments; sternites of gaster strongly sclerotized .</text>
+<pointer>26</pointer>
+</lead>
+</couplet>
+<couplet number="26">
+<lead>
+<text>Fore, mid and hind tarsi 3-segmented.</text>
+<endpoint>Chalcidoidea (part)</endpoint>
+</lead>
+<lead>
+<text>All tarsi with 4 or 5 segments.</text>
+<pointer>27</pointer>
+</lead>
+</couplet>
+<couplet number="27">
+<lead>
+<text>Upper hind corner of pronotum separated from tegula by a prepectus</text>
+<endpoint>Chalcidoidea (part)</endpoint>
+</lead>
+<lead>
+<text>Upper hind corner of prontum more or less touching tegula, or with tegula absent</text>
+<pointer>28</pointer>
+</lead>
+</couplet>
+<couplet number="28">
+<lead>
+<text>First segment of gaster more or less conical, not dorsally fused with tegite 2; tergites 1 and 2 with spiracles.</text>
+<pointer>29</pointer>
+</lead>
+<lead>
+<text>First segment of gaster cylindrical or annular, or minute, indistinct, fused dorsally with tergite 2; tergites 1 and 2 without spiracles.</text>
+<pointer>31</pointer>
+</lead>
+</couplet>
+<couplet number="29">
+<lead>
+<text>Antenna with 10 segments.</text>
+<endpoint>Chrysidoidea (part)</endpoint>
+</lead>
+<lead>
+<text>Antenna with 11-13 segments.</text>
+<pointer>30</pointer>
+</lead>
+</couplet>
+<couplet number="30">
+<lead>
+<text>Head prognathous and dorsoventrally flattened; clypeus with a median carina extending between antennae.</text>
+<endpoint>Chrysidoidea (part)</endpoint>
+</lead>
+<lead>
+<text>Head hypognathous, not dorsoventrally flattened; clypeus lacking a median carina that extends between antennae.</text>
+<endpoint>Vespoidea (part)</endpoint>
+</lead>
+</couplet>
+<couplet number="31">
+<lead>
+<text>Antenna never geniculate, the scape only slightly longer than broad, and slightly shorter than first flagellar segment; gaster laterally compressed</text>
+<endpoint>Cynipoidea (part)</endpoint>
+</lead>
+<lead>
+<text>Female (the most commonly encountered brachypterous or apterous sex) with antenna geniculate, the scape elongate, at least twice the length of the first flagellar segment; gaster of both sexes cylindrical or depressed.</text>
+<pointer>32</pointer>
+</lead>
+</couplet>
+<couplet number="32">
+<lead>
+<text>Anterior tibia with two apical spurs.</text>
+<endpoint>Ceraphronoidea (part)</endpoint>
+</lead>
+<lead>
+<text>Anterior tibia with one apical spur.</text>
+<pointer>33</pointer>
+</lead>
+</couplet>
+<couplet number="33">
+<lead>
+<text>Antennal socket separated from clypeus by its own diameter or less; first segment of gaster with tergite and sternite separate; tergite 8 without spiracle; antenna with 12 or fewer segments.</text>
+<endpoint>Proctotrupoidea (part)</endpoint>
+</lead>
+<lead>
+<text>Antennal socket separated from clypeus by more than twice its own diameter; first segment of gaster with tergite and sternite fused; tergite 8 with spiracle; antenna almost always with 13 or more segments.</text>
+<pointer>34</pointer>
+</lead>
+</couplet>
+<couplet number="34">
+<lead>
+<text>Gaster, especially in females, laterally compressed; antenna of female 14-segmented, of male 13-segmented; ovipositor concealed; head without shelf-like process; cerci absent; ovipositor opening ventral.</text>
+<endpoint>Cynipoidea (part)</endpoint>
+</lead>
+<lead>
+<text>Gaster usually cylindrical; antennae with various numbers of segments, if 14-segmented in female or 13-segmented in male then ovipositor exposed or antenna mounted on a shelf-like process of the face; cerci present; ovipositor opening terminal</text>
+<endpoint>Proctotrupoidea (part)</endpoint>
+</lead>
+</couplet>
+</key>
+<figures>
+<term>
+<synonyms></synonyms>
+<definition></definition>
+</term>
+<term>
+<synonyms>16</synonyms>
+<definition>Fig. 16. Xyelidae - wing cells. (from Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>17</synonyms>
+<definition>Fig. 17. Apidae - wings. (Gabriela Karaszkiewicz, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>42</synonyms>
+<definition>Fig. 42. Cephus - abdomen, dorsal view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>58</synonyms>
+<definition>Fig. 58. *Pamphilius sylvaticus* (Pamphiliidae). (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>59</synonyms>
+<definition>Fig. 59. Blasticotoma - fore wing. (Zofia Kościuszko, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>60</synonyms>
+<definition>Fig. 60. Cimbex - antenna. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>61</synonyms>
+<definition>Fig. 61. Tenthredo - fore wing.</definition>
+</term>
+<term>
+<synonyms>64</synonyms>
+<definition>Fig. 64. *Arge pagana* (Argidae). (from Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>75</synonyms>
+<definition>Fig. 75. Trigonalis hahnii (Trigonalyidae) - wing. (Tomasz Orkisz, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>76</synonyms>
+<definition>Fig. 76. Aulacus - fore wing. </definition>
+</term>
+<term>
+<synonyms>78</synonyms>
+<definition>Fig. 78. Aulacus - head. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>80</synonyms>
+<definition>Fig. 80. Gasteruptrion jucator (Gasteruptiidae) - fore wing. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>85</synonyms>
+<definition>Fig. 85. Tribliographa rapae (Eucoilidae) - fore wing. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>96</synonyms>
+<definition>Fig. 96. *Thysanus ater* (Signiphoridae), female - dorsal view.</definition>
+</term>
+<term>
+<synonyms>115</synonyms>
+<definition>Fig. 115. *Banchus* - fore wing.</definition>
+</term>
+<term>
+<synonyms>121</synonyms>
+<definition>Fig. 121. *Meteorus ictericus* (Braconidae), female - dorsal view.</definition>
+</term>
+</figures>
+</DKey>
