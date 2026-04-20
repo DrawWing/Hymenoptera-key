@@ -127,11 +127,11 @@ Fore wing with costal cell obliterated, veins C, Sc, R and Rs fused between wing
 </couplet>
 <couplet number="11">
 <lead>
-<text>Fore wing with one enclosed cell, or without any enclosed cells (Fig. 98-108; 111-113; 132)</text>
+<text>Fore wing with one enclosed cell, or without any enclosed cells (Fig. 98, 99, 100, 108; 111, 112, 113; 132)</text>
 <pointer>12</pointer>
 </lead>
 <lead>
-<text>Fore wing with two or more cells clearly delineated by veins (Fig. 14, 15, 81, 110, 119-122, 144).</text>
+<text>Fore wing with two or more cells clearly delineated by veins (Fig. 14, 15, 81, 110, 119, 120, 121, 122, 144).</text>
 <pointer>19</pointer>
 </lead>
 </couplet>
@@ -230,7 +230,7 @@ fore wing with 1-10 enclosed cells.</text>
 <couplet number="20">
 <lead>
 <text>Fore wing with costal cell obliterated, veins C, Sc, R and Rs fused or contiguous from wing base to pterostigma;   
-hind wing without a distinct jugal lobe (Fig. 119-122);   
+hind wing without a distinct jugal lobe (Fig. 119, 120, 121, 122);   
 antenna usually with 16 or more segments (rarely with as few as 12), and with a small anellus more or less differentiated from proximal end of 1st flagellar segment</text>
 <endpoint>Ichneumonoidea (part)</endpoint>
 </lead>
@@ -267,7 +267,7 @@ gaster cylindrical or depressed</text>
 </couplet>
 <couplet number="23">
 <lead>
-<text>Fore wing with radial cell either not indicated or open distally, and without any complete submarginal (cubital) cells; hind wing without enclosed cells (Fig. 136-138).</text>
+<text>Fore wing with radial cell either not indicated or open distally, and without any complete submarginal (cubital) cells; hind wing without enclosed cells (Fig. 136, 137, 138).</text>
 <endpoint>Chrysidoidea (in part)</endpoint>
 </lead>
 <lead>
@@ -392,16 +392,60 @@ gaster cylindrical or depressed</text>
 <definition></definition>
 </term>
 <term>
+<synonyms>15</synonyms>
+<definition>Fig. 15. Ichneumonidae - fore wing. (CC0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
 <synonyms>16</synonyms>
-<definition>Fig. 16. Xyelidae - wing cells. (from Gauld and Bolton 1988)</definition>
+<definition>Fig. 16. Xyelidae - fore wing. (Joanna Jurkowska, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
 </term>
 <term>
 <synonyms>17</synonyms>
 <definition>Fig. 17. Apidae - wings. (Gabriela Karaszkiewicz, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
 </term>
 <term>
+<synonyms>40</synonyms>
+<definition>Fig. 40. Orussus - head, anterior view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>41</synonyms>
+<definition>Fig. 41. Xyela - antenna. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
 <synonyms>42</synonyms>
 <definition>Fig. 42. Cephus - abdomen, dorsal view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>43</synonyms>
+<definition>Fig. 43. Sirex - abdomen, dorsal view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>44</synonyms>
+<definition>Fig. 44. Megalodontes - pronotum, dorsal view. (Julia Zawada, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>45</synonyms>
+<definition>Fig. 45. Tenthredo - pronotum, dorsal view. (Kinga Ślęczek, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>46</synonyms>
+<definition>Fig. 46. Megalodontes - head, anterior view. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>47</synonyms>
+<definition>Fig. 47. Tenthredo - head, anterior view. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>51</synonyms>
+<definition>Fig. 51. Proctotrupes - anterior part of mesosoma, lateral view. (Aleksandra Kwiecień, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>52</synonyms>
+<definition>Fig. 52. Proctotrupes - metasoma, lateral view. (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>55</synonyms>
+<definition>Fig. 55. Ectemnius (Sphecidae) - anterior part of mesosoma, lateral view. (Emilia Karaś, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
 </term>
 <term>
 <synonyms>58</synonyms>
@@ -417,11 +461,27 @@ gaster cylindrical or depressed</text>
 </term>
 <term>
 <synonyms>61</synonyms>
-<definition>Fig. 61. Tenthredo - fore wing.</definition>
+<definition>Fig. 61. Tenthredo - fore wing. (Dagmara Kowalczyk, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
 </term>
 <term>
 <synonyms>64</synonyms>
-<definition>Fig. 64. *Arge pagana* (Argidae). (from Gauld and Bolton 1988)</definition>
+<definition>Fig. 64. *Arge pagana* (Argidae) - fore wing. (CC0, from Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>65</synonyms>
+<definition>Fig. 65. Diprion pini (Diprionidae) - fore wing. (Liszka Joanna, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>66</synonyms>
+<definition>Fig. 66. Tenthredo arcuata (Tenthredinidae) - fore wing. (Agnieszka Łatka, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>72</synonyms>
+<definition>Fig. 72. Urocerus gigas (Siricidae). (CC0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>73</synonyms>
+<definition>Fig. 73. Xiphydria (Xiphydriidae) - fore wing. (Natalia Malinowska, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
 </term>
 <term>
 <synonyms>75</synonyms>
@@ -429,27 +489,80 @@ gaster cylindrical or depressed</text>
 </term>
 <term>
 <synonyms>76</synonyms>
-<definition>Fig. 76. Aulacus - fore wing. </definition>
+<definition>Fig. 76. Aulacus - fore wing. (Wiktoria Pachel, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>77</synonyms>
+<definition>Fig. 77. Evania - fore wing. (Jakub Pacyga, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
 </term>
 <term>
 <synonyms>78</synonyms>
 <definition>Fig. 78. Aulacus - head. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
 </term>
 <term>
+<synonyms>79</synonyms>
+<definition>Fig. 79. Brachygaster minuta (Evaniidae) - wings. (Sara Prystupa, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
 <synonyms>80</synonyms>
 <definition>Fig. 80. Gasteruptrion jucator (Gasteruptiidae) - fore wing. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>82</synonyms>
+<definition>Fig. 82. Figites - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>83</synonyms>
+<definition>Fig. 83. Andricus (Cynipidae) - fore wing. (Karolina Szmyracha, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>84</synonyms>
+<definition>Fig. 84.  Anacharis eucharioides (Figitidae) - fore wing. (Kinga Ślęczek, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
 </term>
 <term>
 <synonyms>85</synonyms>
 <definition>Fig. 85. Tribliographa rapae (Eucoilidae) - fore wing. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
 </term>
 <term>
+<synonyms>88</synonyms>
+<definition>Fig. 88. Arrhenophagus (Encyrtidae) - fore   
+wing. (Dagmara Kowalczyk, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>89</synonyms>
+<definition>Fig. 89. Arrhenophagus - head, anterior facial view. (Karolina Szmyracha, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>92</synonyms>
+<definition>Fig. 92. Torymus - fore wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
 <synonyms>96</synonyms>
 <definition>Fig. 96. *Thysanus ater* (Signiphoridae), female - dorsal view.</definition>
 </term>
 <term>
+<synonyms>114</synonyms>
+<definition>Fig. 114. Banchus (Ichneumonidae) - hind wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>115</synonyms>
+<definition>Fig. 115.  Banchus (Ichneumonidae) - fore wing. (Jakub Więckowski, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>117</synonyms>
+<definition>Fig. 117. Macrocentrus - fore wing. (Julia Zawada, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
+<synonyms>124</synonyms>
+<definition>Fig. 124. Dolichurus (Sphecidae) - fore wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
+</term>
+<term>
 <synonyms>115</synonyms>
 <definition>Fig. 115. *Banchus* - fore wing.</definition>
+</term>
+<term>
+<synonyms>120</synonyms>
+<definition>Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)</definition>
 </term>
 <term>
 <synonyms>121</synonyms>

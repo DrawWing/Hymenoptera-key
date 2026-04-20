@@ -1,6 +1,6 @@
 ---
 title: "Hymenoptera of Europe: taxonomic key"
-subtitle: "<https://github.com/DrawWing/Hymenoptera>"
+subtitle: "<https://drawwing.github.io/Hymenoptera-key/Hymenoptera>"
 date-modified: last-modified
 date-format: iso
 format: 
@@ -21,18 +21,18 @@ Tofilski A., 2018. DKey software for editing and browsing dichotomous keys. ZooK
 
 ::: columns
 ::: column
-Body without a marked constriction between the 1st and 2nd abdominal segments (Fig. [58](#f5), [64](#f9)).  
-Wings: fully developed, fore wing: with an enclosed anal cell (Fig. [16](#f2), [59](#f6), [61](#f8)).  
+Body without a marked constriction between the 1st and 2nd abdominal segments (Fig. [58](#f16), [64](#f20)).  
+Wings: fully developed, fore wing: with an enclosed anal cell (Fig. [16](#f3), [59](#f17), [61](#f19)).  
 [Symphyta] - [2](#k2)
   
-![Fig. 58. Pamphilius sylvaticus (Pamphiliidae). (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-58.png "Fig. 58. Pamphilius sylvaticus (Pamphiliidae). (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 59. Blasticotoma - fore wing. (Zofia Kościuszko, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-59.png "Fig. 59. Blasticotoma - fore wing. (Zofia Kościuszko, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
+![Fig. 58. Pamphilius sylvaticus (Pamphiliidae). (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-58.png "Fig. 58. Pamphilius sylvaticus (Pamphiliidae). (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 64. Arge pagana (Argidae) - fore wing. (CC0, from Gauld and Bolton 1988)](fig-64.png "Fig. 64. Arge pagana (Argidae) - fore wing. (CC0, from Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 16. Xyelidae - fore wing. (Joanna Jurkowska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-16.png "Fig. 16. Xyelidae - fore wing. (Joanna Jurkowska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 59. Blasticotoma - fore wing. (Zofia Kościuszko, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-59.png "Fig. 59. Blasticotoma - fore wing. (Zofia Kościuszko, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 61. Tenthredo - fore wing. (Dagmara Kowalczyk, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-61.png "Fig. 61. Tenthredo - fore wing. (Dagmara Kowalczyk, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
 ::: column
-Body with a constriction between the 1st and 2nd abdominal segments (Fig. [121](#f17)), if the constrictipn is secondarily obscured (Fig. [96](#f15)) than fore wing without enclosed cells.  
-Wings: fully developed, vestigal or absent, fore wing: if present then without an enclosed anal cell (Fig. [17](#f3), [76](#f11), [115](#f16)).  
+Body with a constriction between the 1st and 2nd abdominal segments (Fig. [121](#f45)), if the constrictipn is secondarily obscured (Fig. [96](#f38)) than fore wing without enclosed cells.  
+Wings: fully developed, vestigal or absent, fore wing: if present then without an enclosed anal cell (Fig. [17](#f4), [76](#f26), [115](#f40)).  
 [Apocrita] - [7](#k7)
   
-![Fig. 17. Apidae - wings. (Gabriela Karaszkiewicz, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-17.png "Fig. 17. Apidae - wings. (Gabriela Karaszkiewicz, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
+![Fig. 17. Apidae - wings. (Gabriela Karaszkiewicz, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-17.png "Fig. 17. Apidae - wings. (Gabriela Karaszkiewicz, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 76. Aulacus - fore wing. (Wiktoria Pachel, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-76.png "Fig. 76. Aulacus - fore wing. (Wiktoria Pachel, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 115. Banchus (Ichneumonidae) - fore wing. (Jakub Więckowski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-115.png "Fig. 115. Banchus (Ichneumonidae) - fore wing. (Jakub Więckowski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
 :::
 
@@ -40,8 +40,10 @@ Wings: fully developed, vestigal or absent, fore wing: if present then without a
 
 ::: columns
 ::: column
-Antenna: inserted on ventral side of head, close to mandibles (Fig. 40).  
+Antenna: inserted on ventral side of head, close to mandibles (Fig. [40](#f5)).  
 Anal cell of fore wing: indistinctly delineated. - Orussoidea
+  
+![Fig. 40. Orussus - head, anterior view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-40.png "Fig. 40. Orussus - head, anterior view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
 ::: column
 Antenna: inserted on anterior side of head, away from mandibles.  
@@ -54,7 +56,9 @@ Anal cell of fore wing: distinct. - [3](#k3)
 ::: columns
 ::: column
 Vein RS of fore wing: branched (Fig. 57).  
-Antenna: with third segment long and stout, followed by a filament of 9 or more slender segments (Fig. 41). - Xyeloidea
+Antenna: with third segment long and stout, followed by a filament of 9 or more slender segments (Fig. [41](#f6)). - Xyeloidea
+  
+![Fig. 41. Xyela - antenna. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-41.png "Fig. 41. Xyela - antenna. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
 ::: column
 Vein RS of fore wing: unbranched.  
@@ -77,14 +81,16 @@ Fore tibia: with two well-developed apical spurs, both apical spurs are of simil
 
 ::: columns
 ::: column
-Cenchri: absent (Fig. [42](#f4)).  
+Cenchri: absent (Fig. [42](#f7)).  
 Abdomen: terminally laterally compressed, anteriorly slightly constricted between first and second segments (Fig. 74). - Cephoidea
   
 ![Fig. 42. Cephus - abdomen, dorsal view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-42.png "Fig. 42. Cephus - abdomen, dorsal view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
 ::: column
-Cenchri: present (Fig. 43).  
-Abdomen: cylindrical or depressed, not constricted anteriorly (Fig. 72, 73). - Siricoidea
+Cenchri: present (Fig. [43](#f8)).  
+Abdomen: cylindrical or depressed, not constricted anteriorly (Fig. [72](#f23), [73](#f24)). - Siricoidea
+  
+![Fig. 43. Sirex - abdomen, dorsal view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-43.png "Fig. 43. Sirex - abdomen, dorsal view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 72. Urocerus gigas (Siricidae). (CC0, after Gauld and Bolton 1988)](fig-72.png "Fig. 72. Urocerus gigas (Siricidae). (CC0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 73. Xiphydria (Xiphydriidae) - fore wing. (Natalia Malinowska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-73.png "Fig. 73. Xiphydria (Xiphydriidae) - fore wing. (Natalia Malinowska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
 :::
 
@@ -92,20 +98,22 @@ Abdomen: cylindrical or depressed, not constricted anteriorly (Fig. 72, 73). - S
 
 ::: columns
 ::: column
-Pronotum: in dorsal view with hind margin more or less straight (Fig. 44).  
+Pronotum: in dorsal view with hind margin more or less straight (Fig. [44](#f9)).  
 Vein 2r-rs of fore wing: present.  
-Labrum: concealed (Fig. 46).  
+Labrum: concealed (Fig. [46](#f11)).  
 Mid tibiae and hind tibiae: with preapical spurs.  
-Antenna with 18 or more segments (Fig. [58](#f5)). - Megalodontoidea
+Antenna with 18 or more segments (Fig. [58](#f16)). - Megalodontoidea
   
-![Fig. 58. Pamphilius sylvaticus (Pamphiliidae). (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-58.png "Fig. 58. Pamphilius sylvaticus (Pamphiliidae). (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
+![Fig. 44. Megalodontes - pronotum, dorsal view. (Julia Zawada, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-44.png "Fig. 44. Megalodontes - pronotum, dorsal view. (Julia Zawada, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 46. Megalodontes - head, anterior view. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-46.png "Fig. 46. Megalodontes - head, anterior view. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 58. Pamphilius sylvaticus (Pamphiliidae). (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-58.png "Fig. 58. Pamphilius sylvaticus (Pamphiliidae). (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
 ::: column
-Pronotum: in dorsal view with hind margin strongly bowed (Fig. 45, or if weakly bowed then fore wing with 2r-rs absent.  
+Pronotum: in dorsal view with hind margin strongly bowed (Fig. [45](#f10), or if weakly bowed then fore wing with 2r-rs absent.  
 Vein 2r-rs of fore wing: present or absent.  
-Labrum: exposed (Fig. 47).  
+Labrum: exposed (Fig. [47](#f12)).  
 Mid tibiae and hind tibiae: without preapical spurs, if preapical spurs present, then antenna with fewer than 10 segments.  
 Antenna: with 3-32 segments, often with 9 or less. - Tenthredinoidea
+  
+![Fig. 45. Tenthredo - pronotum, dorsal view. (Kinga Ślęczek, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-45.png "Fig. 45. Tenthredo - pronotum, dorsal view. (Kinga Ślęczek, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 47. Tenthredo - head, anterior view. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-47.png "Fig. 47. Tenthredo - head, anterior view. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
 :::
 
@@ -124,9 +132,9 @@ Segment 1 of gaster not scale-like, if rarely slightly nodiform then with segmen
 
 ::: columns
 ::: column
-Segment 1 of gaster inserted high up on propodeum so gap between propodeal foramen and insertion of hind coxa is about equal to or greater than gap between foramen and hind margin of metanotum (Fig. 79-[80](#f13)). - [9](#k9)
+Segment 1 of gaster inserted high up on propodeum so gap between propodeal foramen and insertion of hind coxa is about equal to or greater than gap between foramen and hind margin of metanotum (Fig. [79](#f29)-[80](#f30)). - [9](#k9)
   
-![Fig. 80. Gasteruptrion jucator (Gasteruptiidae) - fore wing. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-80.png "Fig. 80. Gasteruptrion jucator (Gasteruptiidae) - fore wing. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
+![Fig. 79. Brachygaster minuta (Evaniidae) - wings. (Sara Prystupa, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-79.png "Fig. 79. Brachygaster minuta (Evaniidae) - wings. (Sara Prystupa, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 80. Gasteruptrion jucator (Gasteruptiidae) - fore wing. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-80.png "Fig. 80. Gasteruptrion jucator (Gasteruptiidae) - fore wing. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
 ::: column
 Segment 1 of gaster inserted low down on propodeum so gap between propodeal foramen and insertion of hind coxa is very much less than gap between foramen and hind margin of metanotum. - [10](#k10)
@@ -138,13 +146,15 @@ Segment 1 of gaster inserted low down on propodeum so gap between propodeal fora
 ::: columns
 ::: column
 Antenna: with 14 or fewer segments.  
-Fore wing with costal cell distinct (Fig. 79, [80](#f13)). - Evanioidea
+Fore wing with costal cell distinct (Fig. [79](#f29), [80](#f30)). - Evanioidea
   
-![Fig. 80. Gasteruptrion jucator (Gasteruptiidae) - fore wing. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-80.png "Fig. 80. Gasteruptrion jucator (Gasteruptiidae) - fore wing. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
+![Fig. 79. Brachygaster minuta (Evaniidae) - wings. (Sara Prystupa, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-79.png "Fig. 79. Brachygaster minuta (Evaniidae) - wings. (Sara Prystupa, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 80. Gasteruptrion jucator (Gasteruptiidae) - fore wing. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-80.png "Fig. 80. Gasteruptrion jucator (Gasteruptiidae) - fore wing. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
 ::: column
 Antenna: with 18 or more segments.  
-Fore wing with costal cell obliterated, veins C, Sc, R and Rs fused between wing base and pterostigma (Fig. 120) - Ichneumonoidea (part)
+Fore wing with costal cell obliterated, veins C, Sc, R and Rs fused between wing base and pterostigma (Fig. [120](#f44)) - Ichneumonoidea (part)
+  
+![Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-120.png "Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
 :::
 
@@ -163,10 +173,12 @@ Wings: vestigal or absent. - [25](#k25)
 
 ::: columns
 ::: column
-Fore wing with one enclosed cell, or without any enclosed cells (Fig. 98-108; 111-113; 132) - [12](#k12)
+Fore wing with one enclosed cell, or without any enclosed cells (Fig. 98, 99, 100, 108; 111, 112, 113; 132) - [12](#k12)
 :::
 ::: column
-Fore wing with two or more cells clearly delineated by veins (Fig. 14, 15, 81, 110, 119-122, 144). - [19](#k19)
+Fore wing with two or more cells clearly delineated by veins (Fig. 14, [15](#f2), 81, 110, 119, [120](#f44), [121](#f45), 122, 144). - [19](#k19)
+  
+![Fig. 15. Ichneumonidae - fore wing. (CC0, after Gauld and Bolton 1988)](fig-15.png "Fig. 15. Ichneumonidae - fore wing. (CC0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-120.png "Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
 :::
 
@@ -199,7 +211,9 @@ Hind wing not stalked. - [14](#k14)
 Alitrunk with pronotum not extending back to tegulae (Fig. 50); wings without enclosed cells. - Chalcidoidea (part)
 :::
 ::: column
-Alitrunk with pronotum extending back to almost touch tegulae (Fig. 51); wings with or without closed cells. - [15](#k15)
+Alitrunk with pronotum extending back to almost touch tegulae (Fig. [51](#f13)); wings with or without closed cells. - [15](#k15)
+  
+![Fig. 51. Proctotrupes - anterior part of mesosoma, lateral view. (Aleksandra Kwiecień, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-51.png "Fig. 51. Proctotrupes - anterior part of mesosoma, lateral view. (Aleksandra Kwiecień, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
 :::
 
@@ -219,10 +233,10 @@ Antennae inserted on face close to clypeus, their sockets separated from clypeus
 ::: columns
 ::: column
 Antennae not inserted on a promontory or “shelf”, those of female without a very elongate scape;   
-fore wing venation characteristic (Fig. 84, [85](#f14), 86), with a fairly large radial cell, that is either open anteriorly, or the only enclosed cell in the wing;   
+fore wing venation characteristic (Fig. [84](#f33), [85](#f34), 86), with a fairly large radial cell, that is either open anteriorly, or the only enclosed cell in the wing;   
 costal cell broad, anteriorly open, posteriorly bordered by a vein from which arises a long stub of Rs+M. - Cynipoidea (part)
   
-![Fig. 85. Tribliographa rapae (Eucoilidae) - fore wing. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-85.png "Fig. 85. Tribliographa rapae (Eucoilidae) - fore wing. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){width="401" style="border:1px solid black;"}
+![Fig. 84. Anacharis eucharioides (Figitidae) - fore wing. (Kinga Ślęczek, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-84.png "Fig. 84. Anacharis eucharioides (Figitidae) - fore wing. (Kinga Ślęczek, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 85. Tribliographa rapae (Eucoilidae) - fore wing. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-85.png "Fig. 85. Tribliographa rapae (Eucoilidae) - fore wing. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){width="401" style="border:1px solid black;"}
 :::
 ::: column
 Antennae inserted on facial promontory or “shelf”, those of female geniculate, scape more than 3x as long as wide;   
@@ -263,9 +277,9 @@ fore tibia with a single spur. - Proctotrupoidea (part)
 ::: column
 Tarsi with well-developed plantar lobes (Fig. 54);   
 antenna with 26-27 segments;   
-fore wing with 10 enclosed cells (Fig. [75](#f10)). - Trigonalyoidea
+fore wing with 10 enclosed cells (Fig. [75](#f25)). - Trigonalyoidea
   
-![Fig. 75. Trigonalis hahnii (Trigonalyidae) - wing. (Tomasz Orkisz, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-75.png "Fig. 75. Trigonalis hahnii (Trigonalyidae) - wing. (Tomasz Orkisz, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
+![Fig. 54](fig-54.png){style="border:1px solid black;"}![Fig. 75. Trigonalis hahnii (Trigonalyidae) - wing. (Tomasz Orkisz, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-75.png "Fig. 75. Trigonalis hahnii (Trigonalyidae) - wing. (Tomasz Orkisz, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
 ::: column
 Tarsi without plantar lobes, or if vestiges present then antenna with fewer than 14 segments;   
@@ -279,8 +293,10 @@ fore wing with 1-10 enclosed cells. - [20](#k20)
 ::: columns
 ::: column
 Fore wing with costal cell obliterated, veins C, Sc, R and Rs fused or contiguous from wing base to pterostigma;   
-hind wing without a distinct jugal lobe (Fig. 119-122);   
+hind wing without a distinct jugal lobe (Fig. 119, [120](#f44), [121](#f45), 122);   
 antenna usually with 16 or more segments (rarely with as few as 12), and with a small anellus more or less differentiated from proximal end of 1st flagellar segment - Ichneumonoidea (part)
+  
+![Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-120.png "Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
 ::: column
 Fore wing with costal cell usually visible, though sometimes not bordered anteriorly by a vein, rarely when costal cell is virtually obliterated then a distinct jugal lobe is present on the hind wing;   
@@ -308,7 +324,9 @@ gaster cylindrical or depressed - [22](#k22)
 
 ::: columns
 ::: column
-First tergite of gaster short, fused with sternite to form a ring-like, highly sclerotized segment; second tegite (or syntergite) longer than tergites 1 and 3+ combined (Fig. 52); spiracles not present at least on first and apparent second gastral tergites; fore wing usually with 2 enclosed cells (costal and radial)(Fig. 110), rarely with up to 3 more enclosed cells (thus making a maximum of 5)(Fig. 109) - Proctotrupoidea (part)
+First tergite of gaster short, fused with sternite to form a ring-like, highly sclerotized segment; second tegite (or syntergite) longer than tergites 1 and 3+ combined (Fig. [52](#f14)); spiracles not present at least on first and apparent second gastral tergites; fore wing usually with 2 enclosed cells (costal and radial)(Fig. 110), rarely with up to 3 more enclosed cells (thus making a maximum of 5)(Fig. 109) - Proctotrupoidea (part)
+  
+![Fig. 52. Proctotrupes - metasoma, lateral view. (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-52.png "Fig. 52. Proctotrupes - metasoma, lateral view. (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
 ::: column
 First tergite of gaster quite long, not fused with sternite to form short ring-like segment; second tergite not longer than tergites 1 and 3+ combined; first and second segments of gaster with distinct spiracles (though these may be positioned ventrally on laterotergite); fore wing usually with 6 or more enclosed cells, rarely with 2-5 and then always with basal and subbasal cells enclosed, costal cell usually enclosed, radial cell sometimes not enclosed. - [23](#k23)
@@ -319,7 +337,7 @@ First tergite of gaster quite long, not fused with sternite to form short ring-l
 
 ::: columns
 ::: column
-Fore wing with radial cell either not indicated or open distally, and without any complete submarginal (cubital) cells; hind wing without enclosed cells (Fig. 136-138). - Chrysidoidea (in part)
+Fore wing with radial cell either not indicated or open distally, and without any complete submarginal (cubital) cells; hind wing without enclosed cells (Fig. 136, 137, 138). - Chrysidoidea (in part)
 :::
 ::: column
 Fore wing with an enclosed radial cell, and with at least one enclosed cubital cell; hind wing generally with two or three enclosed cells. - [24](#k24)
@@ -330,7 +348,9 @@ Fore wing with an enclosed radial cell, and with at least one enclosed cubital c
 
 ::: columns
 ::: column
-Pronotum with upper hind corner widely separated from tegulae, and lower down the side with a pronounced prontal lobe covering mesothoracic spiracle (Fig. 55). - Apoidea
+Pronotum with upper hind corner widely separated from tegulae, and lower down the side with a pronounced prontal lobe covering mesothoracic spiracle (Fig. [55](#f15)). - Apoidea
+  
+![Fig. 55. Ectemnius (Sphecidae) - anterior part of mesosoma, lateral view. (Emilia Karaś, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-55.png "Fig. 55. Ectemnius (Sphecidae) - anterior part of mesosoma, lateral view. (Emilia Karaś, CC BY-NC 3.0, after Gauld and Bolton 1988)"){height="401" style="border:1px solid black;"}
 :::
 ::: column
 Pronotum with upper hind corner reaching to or close to tegula, with or without a pronounced prontal lobe (Fig. 56). - Vespoidea (part)
@@ -449,44 +469,134 @@ Gaster usually cylindrical; antennae with various numbers of segments, if 14-seg
 ## Figures  
 <a id="f1"></a>1.   
   
-<a id="f2"></a>2. Fig. 16. Xyelidae - wing cells. (from Gauld and Bolton 1988)  
+<a id="f2"></a>2. Fig. 15. Ichneumonidae - fore wing. (CC0, after Gauld and Bolton 1988)  
+![Fig. 15. Ichneumonidae - fore wing. (CC0, after Gauld and Bolton 1988)](fig-15.png "Fig. 15. Ichneumonidae - fore wing. (CC0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
   
-<a id="f3"></a>3. Fig. 17. Apidae - wings. (Gabriela Karaszkiewicz, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+<a id="f3"></a>3. Fig. 16. Xyelidae - fore wing. (Joanna Jurkowska, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 16. Xyelidae - fore wing. (Joanna Jurkowska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-16.png "Fig. 16. Xyelidae - fore wing. (Joanna Jurkowska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f4"></a>4. Fig. 17. Apidae - wings. (Gabriela Karaszkiewicz, CC BY-NC 3.0, after Gauld and Bolton 1988)  
 ![Fig. 17. Apidae - wings. (Gabriela Karaszkiewicz, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-17.png "Fig. 17. Apidae - wings. (Gabriela Karaszkiewicz, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
   
-<a id="f4"></a>4. Fig. 42. Cephus - abdomen, dorsal view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+<a id="f5"></a>5. Fig. 40. Orussus - head, anterior view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 40. Orussus - head, anterior view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-40.png "Fig. 40. Orussus - head, anterior view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f6"></a>6. Fig. 41. Xyela - antenna. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 41. Xyela - antenna. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-41.png "Fig. 41. Xyela - antenna. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f7"></a>7. Fig. 42. Cephus - abdomen, dorsal view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)  
 ![Fig. 42. Cephus - abdomen, dorsal view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-42.png "Fig. 42. Cephus - abdomen, dorsal view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
   
-<a id="f5"></a>5. Fig. 58. *Pamphilius sylvaticus* (Pamphiliidae). (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+<a id="f8"></a>8. Fig. 43. Sirex - abdomen, dorsal view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 43. Sirex - abdomen, dorsal view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-43.png "Fig. 43. Sirex - abdomen, dorsal view. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f9"></a>9. Fig. 44. Megalodontes - pronotum, dorsal view. (Julia Zawada, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 44. Megalodontes - pronotum, dorsal view. (Julia Zawada, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-44.png "Fig. 44. Megalodontes - pronotum, dorsal view. (Julia Zawada, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f10"></a>10. Fig. 45. Tenthredo - pronotum, dorsal view. (Kinga Ślęczek, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 45. Tenthredo - pronotum, dorsal view. (Kinga Ślęczek, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-45.png "Fig. 45. Tenthredo - pronotum, dorsal view. (Kinga Ślęczek, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f11"></a>11. Fig. 46. Megalodontes - head, anterior view. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 46. Megalodontes - head, anterior view. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-46.png "Fig. 46. Megalodontes - head, anterior view. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f12"></a>12. Fig. 47. Tenthredo - head, anterior view. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 47. Tenthredo - head, anterior view. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-47.png "Fig. 47. Tenthredo - head, anterior view. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f13"></a>13. Fig. 51. Proctotrupes - anterior part of mesosoma, lateral view. (Aleksandra Kwiecień, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 51. Proctotrupes - anterior part of mesosoma, lateral view. (Aleksandra Kwiecień, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-51.png "Fig. 51. Proctotrupes - anterior part of mesosoma, lateral view. (Aleksandra Kwiecień, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f14"></a>14. Fig. 52. Proctotrupes - metasoma, lateral view. (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 52. Proctotrupes - metasoma, lateral view. (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-52.png "Fig. 52. Proctotrupes - metasoma, lateral view. (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f15"></a>15. Fig. 55. Ectemnius (Sphecidae) - anterior part of mesosoma, lateral view. (Emilia Karaś, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 55. Ectemnius (Sphecidae) - anterior part of mesosoma, lateral view. (Emilia Karaś, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-55.png "Fig. 55. Ectemnius (Sphecidae) - anterior part of mesosoma, lateral view. (Emilia Karaś, CC BY-NC 3.0, after Gauld and Bolton 1988)"){height="401" style="border:1px solid black;"}  
+  
+<a id="f16"></a>16. Fig. 58. *Pamphilius sylvaticus* (Pamphiliidae). (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)  
 ![Fig. 58. Pamphilius sylvaticus (Pamphiliidae). (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-58.png "Fig. 58. Pamphilius sylvaticus (Pamphiliidae). (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
   
-<a id="f6"></a>6. Fig. 59. Blasticotoma - fore wing. (Zofia Kościuszko, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+<a id="f17"></a>17. Fig. 59. Blasticotoma - fore wing. (Zofia Kościuszko, CC BY-NC 3.0, after Gauld and Bolton 1988)  
 ![Fig. 59. Blasticotoma - fore wing. (Zofia Kościuszko, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-59.png "Fig. 59. Blasticotoma - fore wing. (Zofia Kościuszko, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
   
-<a id="f7"></a>7. Fig. 60. Cimbex - antenna. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+<a id="f18"></a>18. Fig. 60. Cimbex - antenna. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)  
 ![Fig. 60. Cimbex - antenna. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-60.png "Fig. 60. Cimbex - antenna. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
   
-<a id="f8"></a>8. Fig. 61. Tenthredo - fore wing.  
+<a id="f19"></a>19. Fig. 61. Tenthredo - fore wing. (Dagmara Kowalczyk, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 61. Tenthredo - fore wing. (Dagmara Kowalczyk, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-61.png "Fig. 61. Tenthredo - fore wing. (Dagmara Kowalczyk, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
   
-<a id="f9"></a>9. Fig. 64. *Arge pagana* (Argidae). (from Gauld and Bolton 1988)  
+<a id="f20"></a>20. Fig. 64. *Arge pagana* (Argidae) - fore wing. (CC0, from Gauld and Bolton 1988)  
+![Fig. 64. Arge pagana (Argidae) - fore wing. (CC0, from Gauld and Bolton 1988)](fig-64.png "Fig. 64. Arge pagana (Argidae) - fore wing. (CC0, from Gauld and Bolton 1988)"){style="border:1px solid black;"}  
   
-<a id="f10"></a>10. Fig. 75. Trigonalis hahnii (Trigonalyidae) - wing. (Tomasz Orkisz, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+<a id="f21"></a>21. Fig. 65. Diprion pini (Diprionidae) - fore wing. (Liszka Joanna, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 65. Diprion pini (Diprionidae) - fore wing. (Liszka Joanna, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-65.png "Fig. 65. Diprion pini (Diprionidae) - fore wing. (Liszka Joanna, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f22"></a>22. Fig. 66. Tenthredo arcuata (Tenthredinidae) - fore wing. (Agnieszka Łatka, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 66. Tenthredo arcuata (Tenthredinidae) - fore wing. (Agnieszka Łatka, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-66.png "Fig. 66. Tenthredo arcuata (Tenthredinidae) - fore wing. (Agnieszka Łatka, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f23"></a>23. Fig. 72. Urocerus gigas (Siricidae). (CC0, after Gauld and Bolton 1988)  
+![Fig. 72. Urocerus gigas (Siricidae). (CC0, after Gauld and Bolton 1988)](fig-72.png "Fig. 72. Urocerus gigas (Siricidae). (CC0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f24"></a>24. Fig. 73. Xiphydria (Xiphydriidae) - fore wing. (Natalia Malinowska, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 73. Xiphydria (Xiphydriidae) - fore wing. (Natalia Malinowska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-73.png "Fig. 73. Xiphydria (Xiphydriidae) - fore wing. (Natalia Malinowska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f25"></a>25. Fig. 75. Trigonalis hahnii (Trigonalyidae) - wing. (Tomasz Orkisz, CC BY-NC 3.0, after Gauld and Bolton 1988)  
 ![Fig. 75. Trigonalis hahnii (Trigonalyidae) - wing. (Tomasz Orkisz, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-75.png "Fig. 75. Trigonalis hahnii (Trigonalyidae) - wing. (Tomasz Orkisz, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
   
-<a id="f11"></a>11. Fig. 76. Aulacus - fore wing.   
+<a id="f26"></a>26. Fig. 76. Aulacus - fore wing. (Wiktoria Pachel, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 76. Aulacus - fore wing. (Wiktoria Pachel, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-76.png "Fig. 76. Aulacus - fore wing. (Wiktoria Pachel, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
   
-<a id="f12"></a>12. Fig. 78. Aulacus - head. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+<a id="f27"></a>27. Fig. 77. Evania - fore wing. (Jakub Pacyga, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 77. Evania - fore wing. (Jakub Pacyga, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-77.png "Fig. 77. Evania - fore wing. (Jakub Pacyga, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f28"></a>28. Fig. 78. Aulacus - head. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)  
 ![Fig. 78. Aulacus - head. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-78.png "Fig. 78. Aulacus - head. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){height="401" style="border:1px solid black;"}  
   
-<a id="f13"></a>13. Fig. 80. Gasteruptrion jucator (Gasteruptiidae) - fore wing. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+<a id="f29"></a>29. Fig. 79. Brachygaster minuta (Evaniidae) - wings. (Sara Prystupa, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 79. Brachygaster minuta (Evaniidae) - wings. (Sara Prystupa, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-79.png "Fig. 79. Brachygaster minuta (Evaniidae) - wings. (Sara Prystupa, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f30"></a>30. Fig. 80. Gasteruptrion jucator (Gasteruptiidae) - fore wing. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)  
 ![Fig. 80. Gasteruptrion jucator (Gasteruptiidae) - fore wing. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-80.png "Fig. 80. Gasteruptrion jucator (Gasteruptiidae) - fore wing. (Weronika Stelnicka, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
   
-<a id="f14"></a>14. Fig. 85. Tribliographa rapae (Eucoilidae) - fore wing. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+<a id="f31"></a>31. Fig. 82. Figites - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 82. Figites - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-82.png "Fig. 82. Figites - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f32"></a>32. Fig. 83. Andricus (Cynipidae) - fore wing. (Karolina Szmyracha, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 83. Andricus (Cynipidae) - fore wing. (Karolina Szmyracha, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-83.png "Fig. 83. Andricus (Cynipidae) - fore wing. (Karolina Szmyracha, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f33"></a>33. Fig. 84.  Anacharis eucharioides (Figitidae) - fore wing. (Kinga Ślęczek, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 84. Anacharis eucharioides (Figitidae) - fore wing. (Kinga Ślęczek, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-84.png "Fig. 84. Anacharis eucharioides (Figitidae) - fore wing. (Kinga Ślęczek, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f34"></a>34. Fig. 85. Tribliographa rapae (Eucoilidae) - fore wing. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)  
 ![Fig. 85. Tribliographa rapae (Eucoilidae) - fore wing. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-85.png "Fig. 85. Tribliographa rapae (Eucoilidae) - fore wing. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){width="401" style="border:1px solid black;"}  
   
-<a id="f15"></a>15. Fig. 96. *Thysanus ater* (Signiphoridae), female - dorsal view.  
+<a id="f35"></a>35. Fig. 88. Arrhenophagus (Encyrtidae) - fore   
+wing. (Dagmara Kowalczyk, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 88. Arrhenophagus (Encyrtidae) - fore wing. (Dagmara Kowalczyk, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-88.png "Fig. 88. Arrhenophagus (Encyrtidae) - fore wing. (Dagmara Kowalczyk, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
   
-<a id="f16"></a>16. Fig. 115. *Banchus* - fore wing.  
+<a id="f36"></a>36. Fig. 89. Arrhenophagus - head, anterior facial view. (Karolina Szmyracha, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 89. Arrhenophagus - head, anterior facial view. (Karolina Szmyracha, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-89.png "Fig. 89. Arrhenophagus - head, anterior facial view. (Karolina Szmyracha, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
   
-<a id="f17"></a>17. Fig. 121. *Meteorus ictericus* (Braconidae), female - dorsal view.  
+<a id="f37"></a>37. Fig. 92. Torymus - fore wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 92. Torymus - fore wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-92.png "Fig. 92. Torymus - fore wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f38"></a>38. Fig. 96. *Thysanus ater* (Signiphoridae), female - dorsal view.  
+  
+<a id="f39"></a>39. Fig. 114. Banchus (Ichneumonidae) - hind wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 114. Banchus (Ichneumonidae) - hind wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-114.png "Fig. 114. Banchus (Ichneumonidae) - hind wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f40"></a>40. Fig. 115.  Banchus (Ichneumonidae) - fore wing. (Jakub Więckowski, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 115. Banchus (Ichneumonidae) - fore wing. (Jakub Więckowski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-115.png "Fig. 115. Banchus (Ichneumonidae) - fore wing. (Jakub Więckowski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f41"></a>41. Fig. 117. Macrocentrus - fore wing. (Julia Zawada, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 117. Macrocentrus - fore wing. (Julia Zawada, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-117.png "Fig. 117. Macrocentrus - fore wing. (Julia Zawada, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f42"></a>42. Fig. 124. Dolichurus (Sphecidae) - fore wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 124. Dolichurus (Sphecidae) - fore wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-124.png "Fig. 124. Dolichurus (Sphecidae) - fore wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f43"></a>43. Fig. 115. *Banchus* - fore wing.  
+![Fig. 115. Banchus (Ichneumonidae) - fore wing. (Jakub Więckowski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-115.png "Fig. 115. Banchus (Ichneumonidae) - fore wing. (Jakub Więckowski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f44"></a>44. Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-120.png "Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
+  
+<a id="f45"></a>45. Fig. 121. *Meteorus ictericus* (Braconidae), female - dorsal view.  
   
