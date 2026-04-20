@@ -28,7 +28,7 @@ Wings: fully developed, fore wing: with an enclosed anal cell (Fig. [16](#f3), [
 ![Fig. 58. Pamphilius sylvaticus (Pamphiliidae). (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-58.png "Fig. 58. Pamphilius sylvaticus (Pamphiliidae). (Maria Komorowska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 64. Arge pagana (Argidae) - fore wing. (CC0, from Gauld and Bolton 1988)](fig-64.png "Fig. 64. Arge pagana (Argidae) - fore wing. (CC0, from Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 16. Xyelidae - fore wing. (Joanna Jurkowska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-16.png "Fig. 16. Xyelidae - fore wing. (Joanna Jurkowska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 59. Blasticotoma - fore wing. (Zofia Kościuszko, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-59.png "Fig. 59. Blasticotoma - fore wing. (Zofia Kościuszko, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 61. Tenthredo - fore wing. (Dagmara Kowalczyk, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-61.png "Fig. 61. Tenthredo - fore wing. (Dagmara Kowalczyk, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
 ::: column
-Body with a constriction between the 1st and 2nd abdominal segments (Fig. [121](#f45)), if the constrictipn is secondarily obscured (Fig. [96](#f38)) than fore wing without enclosed cells.  
+Body with a constriction between the 1st and 2nd abdominal segments (Fig. [121](#f43)), if the constrictipn is secondarily obscured (Fig. [96](#f38)) than fore wing without enclosed cells.  
 Wings: fully developed, vestigal or absent, fore wing: if present then without an enclosed anal cell (Fig. [17](#f4), [76](#f26), [115](#f40)).  
 [Apocrita] - [7](#k7)
   
@@ -152,7 +152,7 @@ Fore wing with costal cell distinct (Fig. [79](#f29), [80](#f30)). - Evanioidea
 :::
 ::: column
 Antenna: with 18 or more segments.  
-Fore wing with costal cell obliterated, veins C, Sc, R and Rs fused between wing base and pterostigma (Fig. [120](#f44)) - Ichneumonoidea (part)
+Fore wing with costal cell obliterated, veins C, Sc, R and Rs fused between wing base and pterostigma (Fig. [120](#f42)) - Ichneumonoidea (part)
   
 ![Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-120.png "Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
@@ -176,7 +176,7 @@ Wings: vestigal or absent. - [25](#k25)
 Fore wing with one enclosed cell, or without any enclosed cells (Fig. 98, 99, 100, 108; 111, 112, 113; 132) - [12](#k12)
 :::
 ::: column
-Fore wing with two or more cells clearly delineated by veins (Fig. 14, [15](#f2), 81, 110, 119, [120](#f44), [121](#f45), 122, 144). - [19](#k19)
+Fore wing with two or more cells clearly delineated by veins (Fig. 14, [15](#f2), 81, 110, 119, [120](#f42), [121](#f43), 122, 144). - [19](#k19)
   
 ![Fig. 15. Ichneumonidae - fore wing. (CC0, after Gauld and Bolton 1988)](fig-15.png "Fig. 15. Ichneumonidae - fore wing. (CC0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}![Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-120.png "Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
 :::
@@ -293,7 +293,7 @@ fore wing with 1-10 enclosed cells. - [20](#k20)
 ::: columns
 ::: column
 Fore wing with costal cell obliterated, veins C, Sc, R and Rs fused or contiguous from wing base to pterostigma;   
-hind wing without a distinct jugal lobe (Fig. 119, [120](#f44), [121](#f45), 122);   
+hind wing without a distinct jugal lobe (Fig. 119, [120](#f42), [121](#f43), 122);   
 antenna usually with 16 or more segments (rarely with as few as 12), and with a small anellus more or less differentiated from proximal end of 1st flagellar segment - Ichneumonoidea (part)
   
 ![Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-120.png "Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}
@@ -568,8 +568,7 @@ Gaster usually cylindrical; antennae with various numbers of segments, if 14-seg
 <a id="f34"></a>34. Fig. 85. Tribliographa rapae (Eucoilidae) - fore wing. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)  
 ![Fig. 85. Tribliographa rapae (Eucoilidae) - fore wing. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-85.png "Fig. 85. Tribliographa rapae (Eucoilidae) - fore wing. (Maja Tomaszewska, CC BY-NC 3.0, after Gauld and Bolton 1988)"){width="401" style="border:1px solid black;"}  
   
-<a id="f35"></a>35. Fig. 88. Arrhenophagus (Encyrtidae) - fore   
-wing. (Dagmara Kowalczyk, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+<a id="f35"></a>35. Fig. 88. Arrhenophagus (Encyrtidae) - fore wing. (Dagmara Kowalczyk, CC BY-NC 3.0, after Gauld and Bolton 1988)  
 ![Fig. 88. Arrhenophagus (Encyrtidae) - fore wing. (Dagmara Kowalczyk, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-88.png "Fig. 88. Arrhenophagus (Encyrtidae) - fore wing. (Dagmara Kowalczyk, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
   
 <a id="f36"></a>36. Fig. 89. Arrhenophagus - head, anterior facial view. (Karolina Szmyracha, CC BY-NC 3.0, after Gauld and Bolton 1988)  
@@ -589,14 +588,11 @@ wing. (Dagmara Kowalczyk, CC BY-NC 3.0, after Gauld and Bolton 1988)
 <a id="f41"></a>41. Fig. 117. Macrocentrus - fore wing. (Julia Zawada, CC BY-NC 3.0, after Gauld and Bolton 1988)  
 ![Fig. 117. Macrocentrus - fore wing. (Julia Zawada, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-117.png "Fig. 117. Macrocentrus - fore wing. (Julia Zawada, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
   
-<a id="f42"></a>42. Fig. 124. Dolichurus (Sphecidae) - fore wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)  
-![Fig. 124. Dolichurus (Sphecidae) - fore wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-124.png "Fig. 124. Dolichurus (Sphecidae) - fore wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
-  
-<a id="f43"></a>43. Fig. 115. *Banchus* - fore wing.  
-![Fig. 115. Banchus (Ichneumonidae) - fore wing. (Jakub Więckowski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-115.png "Fig. 115. Banchus (Ichneumonidae) - fore wing. (Jakub Więckowski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
-  
-<a id="f44"></a>44. Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+<a id="f42"></a>42. Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)  
 ![Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-120.png "Fig. 120. Amblyteles armatorius (Ichneumonidae) - fore wing. (Tymoteusz Tuttas, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
   
-<a id="f45"></a>45. Fig. 121. *Meteorus ictericus* (Braconidae), female - dorsal view.  
+<a id="f43"></a>43. Fig. 121. *Meteorus ictericus* (Braconidae), female - dorsal view.  
+  
+<a id="f44"></a>44. Fig. 124. Dolichurus (Sphecidae) - fore wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)  
+![Fig. 124. Dolichurus (Sphecidae) - fore wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)](fig-124.png "Fig. 124. Dolichurus (Sphecidae) - fore wing. (Adam Tofilski, CC BY-NC 3.0, after Gauld and Bolton 1988)"){style="border:1px solid black;"}  
   
